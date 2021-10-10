@@ -1,0 +1,1293 @@
+#EXTM3U
+#EXTINF:99,Al-hijrah
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:0,TV Ikim (360p)
+#EXTVLCOPT:network-caching=1000
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:0,TV1 HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:0,TV2
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:14400,TV3
+#EXTVLCOPT:network-caching=1000
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRbHuusWtfeMwXl20ZHWCp0)/dm/3/x6qp375/d/live-3.m3u8
+#EXTINF:30,TV9
+#EXTVLCOPT:network-caching=1000
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYjRVdhw23i22Sx1oyE8UIQ)/dm/3/x6qqja6/s/live-3.m3u8
+#EXTINF:60,TVS
+#EXTVLCOPT:network-caching=1000
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:0,TVB Xing He
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:0,TVS
+#EXTVLCOPT:network-caching=1000
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:0,Astro AOD 311
+#EXTVLCOPT:network-caching=1000
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:0,Astro Awani [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:0,Astro Ceria HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:0,Astro Citra HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:0,Astro Oasis HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:0,Astro Prima HD
+#EXTVLCOPT:network-caching=1000
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:0,BERNAMA
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:0,Bloomberg TV Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:0,Bloomberg TV Asia Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:0,Boo HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:99,8TV
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0,Hello HD
+#EXTVLCOPT:network-caching=1000
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+#EXTINF:0,Naura HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:0,NTV7
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:21,&Flix
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:0,&Pictures
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+#EXTINF:0,&prive HD
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:0,24 Hour Free Movies
+#EXTVLCOPT:network-caching=1000
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:0,24 Hour Free Movies
+#EXTVLCOPT:network-caching=1000
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:60,ABC TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://c.mjh.nz/101002210221/
+#EXTINF:0,ABC TV Plus (720p)
+#EXTVLCOPT:network-caching=1000
+https://c.mjh.nz/abc2/
+#EXTINF:57,Action Hollywood Movies (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:36,Action Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,ActionMAX
+#EXTVLCOPT:network-caching=1000
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTINF:0,Activa TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+#EXTINF:0,Ahlulbayt TV
+#EXTVLCOPT:network-caching=1000
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:0,Akudji TV
+#EXTVLCOPT:network-caching=1000
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0,Al Quran Al Kareem TV (Mecca) (720p)
+#EXTVLCOPT:network-caching=1000
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:0,ALFA DRAMAS (226p)
+#EXTVLCOPT:network-caching=1000
+http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+#EXTINF:0,Amazing Discoveries TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:35,AMC Absolute Reality
+#EXTVLCOPT:network-caching=1000
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,AMC IFC Film Picks
+#EXTVLCOPT:network-caching=1000
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,AMC Presents
+#EXTVLCOPT:network-caching=1000
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,AMC Rush
+#EXTVLCOPT:network-caching=1000
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,AMC Slightly Off
+#EXTVLCOPT:network-caching=1000
+https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:24,Amedia Hit (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:0,American Horrors (480p)
+#EXTVLCOPT:network-caching=1000
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0,AMG TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:0,AniPlus (Malay subtitles) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:0,Anixe HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:0,Asiancrush (720p)
+#EXTVLCOPT:network-caching=1000
+https://ac-samsung.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Asylum (XUMO)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+#EXTINF:0,Australia Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:0,AXN (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:0,AXN East Asia (Vietnam) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:0,AXN East Asia (Vietnam) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:0,B1 (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.adunity.com/b1/b1.m3u8
+#EXTINF:0,Beano TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Beast Mode (US)
+#EXTVLCOPT:network-caching=1000
+https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/dedcdc71-f8ba-4371-9ed9-e5fb2a691485/5.m3u8
+#EXTINF:0,Bee Movies [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
+#EXTINF:0,Bflix Movies (480p)
+#EXTVLCOPT:network-caching=1000
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:0,Bizzarro Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Bloomberg TV Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:0,Bloomberg TV Asia Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:0,Bluegrass 4U
+#EXTVLCOPT:network-caching=1000
+https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
+http://27.254.130.56:80/live01/ch18.m3u8
+#EXTINF:0,Boreal (720p)
+#EXTVLCOPT:network-caching=1000
+https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8
+#EXTINF:0,BTV Cinema
+#EXTVLCOPT:network-caching=1000
+https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
+#EXTINF:42,Cartoon Network Vietnam (720p)
+#EXTVLCOPT:network-caching=1000
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:0,Celestial Classic \u5929\u6620\u7ecf\u5178
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:0,Celestial Movies (480p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:0,Charge!
+#EXTVLCOPT:network-caching=1000
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://23.237.202.43:7283/CINEMAX-FHD/index.m3u8?un=rommel07&tm=1626349319&sn=Ux0Oojow5FkqHQCpMmUNQKUr4Wb
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:0,Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:0,Cinemax (360p)
+#EXTVLCOPT:network-caching=1000
+http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:0,CNA (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:0,CNBC Indonesia (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:60,Crackle
+#EXTVLCOPT:network-caching=1000
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:0,Discover.Film (720p)
+#EXTVLCOPT:network-caching=1000
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Disney Channel Japan (360p)
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
+#EXTINF:60,Dove Channel
+#EXTVLCOPT:network-caching=1000
+https://dove-channel.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Drama Life
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Dust
+#EXTVLCOPT:network-caching=1000
+https://dust.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Dust (720p)
+#EXTVLCOPT:network-caching=1000
+https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,DUSTx (720p)
+#EXTVLCOPT:network-caching=1000
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,DW English (720p)
+#EXTVLCOPT:network-caching=1000
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:0,Electric Now (STIRR) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+#EXTINF:0,Entertainment Tonight (1080p)
+#EXTVLCOPT:network-caching=1000
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:0,Failarmy (720p)
+#EXTVLCOPT:network-caching=1000
+https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Family Flix
+#EXTVLCOPT:network-caching=1000
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:0,Family Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Fight Box (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTVLCOPT:network-caching=1000
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:0,Fight Network
+#EXTVLCOPT:network-caching=1000
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:0,Film Hub
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:0,Film+
+#EXTVLCOPT:network-caching=1000
+https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
+#EXTINF:0,Filmeraa
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
+#EXTINF:0,FilmRise Free Movies
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:0,Filmrise Free Movies (STIRR) (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:0,FilmRise Free Movies on Redbox
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?
+#EXTINF:0,FilmRise Movies on Redbox
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?
+#EXTINF:0,FilmRise Sci-Fi (XUMO)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
+#EXTINF:0,FilmRise True Crime
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:0,Filmstream (720p)
+#EXTVLCOPT:network-caching=1000
+https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Filmzie (720p)
+#EXTVLCOPT:network-caching=1000
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Flix Fling Now
+#EXTVLCOPT:network-caching=1000
+https://flixfling-flixflingnow-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,FOX [Vietnam]
+#EXTVLCOPT:network-caching=1000
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0,FOX Movies [Vietnam]
+#EXTVLCOPT:network-caching=1000
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:45,FOX Movies Asia Thai (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:50,FOX Thai (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:0,FrightFlix
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
+#EXTINF:0,FTF (720p)
+#EXTVLCOPT:network-caching=1000
+https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,FTF (For the fans)
+#EXTVLCOPT:network-caching=1000
+https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,FTF (For the Fans) (720p)
+#EXTVLCOPT:network-caching=1000
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,FTF For the fans (720p)
+#EXTVLCOPT:network-caching=1000
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Fuel TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Fuji TV
+#EXTVLCOPT:network-caching=1000
+https://fujitv.mov3.co/hls/fujitv.m3u8
+#EXTINF:0,Gravitas (STIRR) (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+#EXTINF:0,Gravitas Movies
+#EXTVLCOPT:network-caching=1000
+https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,GRAVITAS MOVIES (STIRR)
+#EXTVLCOPT:network-caching=1000
+https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
+#EXTINF:0,Gravitas Movies (STIRR)
+#EXTVLCOPT:network-caching=1000
+https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
+#EXTINF:0,Gravitas Movies (STIRR) (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+#EXTINF:0,Gravitas Movies (XUMO)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:0,Groovy TV (532p)
+#EXTVLCOPT:network-caching=1000
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:0,Hallmark
+#EXTVLCOPT:network-caching=1000
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/768x432_2340800/index.m3u8
+#EXTINF:53,Hallmark Movies & More
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:0,HBO Family [Asia Feed]
+#EXTVLCOPT:network-caching=1000
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#EXTINF:0,HBO Hits [Asia Feed]
+#EXTVLCOPT:network-caching=1000
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:0,Hits Movies
+#EXTVLCOPT:network-caching=1000
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTINF:0,Hollywood HD
+#EXTVLCOPT:network-caching=1000
+http://212.79.122.23:8000/play/a00e/index.m3u8
+#EXTINF:0,Indonesia Channel (720p)
+#EXTVLCOPT:network-caching=1000
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+#EXTINF:0,Indosiar
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:60,K+ (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:0,K-TV
+#EXTVLCOPT:network-caching=1000
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:0,K1
+#EXTVLCOPT:network-caching=1000
+https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
+#EXTINF:0,KBS 1
+#EXTVLCOPT:network-caching=1000
+http://121.130.210.101:9981/stream/channelid/637185705
+#EXTINF:0,KBS World (576p)
+#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:0,KBS2
+#EXTVLCOPT:network-caching=1000
+http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
+#EXTINF:0,Kidoodle TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,KIDS TV
+#EXTVLCOPT:network-caching=1000
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:0,KidsFlix
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
+#EXTINF:0,Kidz Bop
+#EXTVLCOPT:network-caching=1000
+https://kidzbop-rokuus.amagi.tv/hls/amagi_hls_data_kidzbopAA-kidzbop-roku-us/CDN/playlist.m3u8
+#EXTINF:0,KTV
+#EXTVLCOPT:network-caching=1000
+rtmp://218.38.152.31:1935/klive/klive.stream
+#EXTINF:0,Kuriakos Cine (1080p)
+#EXTVLCOPT:network-caching=1000
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+#EXTINF:0,Kuriakos Kids (1080p)
+#EXTVLCOPT:network-caching=1000
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:0,Local Now Drama
+#EXTVLCOPT:network-caching=1000
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:0,Local Now Movies of the 2000s
+#EXTVLCOPT:network-caching=1000
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:0,Local Now Movies of the 2010s
+#EXTVLCOPT:network-caching=1000
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:0,MNCTV
+#EXTVLCOPT:network-caching=1000
+https://etslive-2-vidio-com.akamaized.net/exp=1631172639~acl=%2fvp9%2f870_stream.mpd%21%2fvp9%2f870%2f%2a~hmac=9b57bb57e836914ee6acd12d083fc770f8e7c881fa5dbb4c824e4fbf7d07731f/vp9/870_stream.mpd
+#EXTINF:0,Maah TV
+#EXTVLCOPT:network-caching=1000
+http://51.210.199.33/hls/stream.m3u8
+#EXTINF:60,Made in Hollywood
+#EXTVLCOPT:network-caching=1000
+https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Maha Movie (480p)
+#EXTVLCOPT:network-caching=1000
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:0,Makkah TV
+#EXTVLCOPT:network-caching=1000
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w2097348824.m3u8?v=2957056943
+#EXTINF:0,MBC 3 USA (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
+#EXTINF:0,MBC 4 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:0,MBC 5 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:60,MBC Action (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:0,MBC Bollywood (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:60,MBC Drama USA (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8
+#EXTINF:0,MBC Max (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:0,MBC Plus Drama (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:0,Metro TV
+#EXTVLCOPT:network-caching=1000
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:0,METRO TV
+#EXTVLCOPT:network-caching=1000
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/777-metro-tv
+#EXTINF:0,METRO TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:0,Millenium TV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:0,Millenium TV (540p)
+#EXTVLCOPT:network-caching=1000
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:0,MNCTV
+#EXTVLCOPT:network-caching=1000
+http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
+#EXTINF:0,MNCTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:0,Mondo Kids (720p)
+#EXTVLCOPT:network-caching=1000
+https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Mono 29
+#EXTVLCOPT:network-caching=1000
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:0,Monster Movies
+#EXTVLCOPT:network-caching=1000
+https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Moods (720p)
+#EXTVLCOPT:network-caching=1000
+https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Moovimex
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:0,Movie Kingdom
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0,Movie Mex
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:0,Movie Mix (STIRR) (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:0,MOVIE SPHERE
+#EXTVLCOPT:network-caching=1000
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:0,MovieMix (720p)
+#EXTVLCOPT:network-caching=1000
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,MovieMix (STIRR) (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:0,Movies Central (720p)
+#EXTVLCOPT:network-caching=1000
+https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Movies Central (720p)
+#EXTVLCOPT:network-caching=1000
+https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Movies Kingdom (720p)
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:0,MovieSphere
+#EXTVLCOPT:network-caching=1000
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:0,Moviesphere Free (1080p)
+#EXTVLCOPT:network-caching=1000
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0,MovieSphere UK
+#EXTVLCOPT:network-caching=1000
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,MyTime movie network
+#EXTVLCOPT:network-caching=1000
+https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:0,MyTime movie network (Brazil)
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0,MyTime movie network (Mexico)
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0,MyTime movie network (Spain)
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,MyTime Movies
+#EXTVLCOPT:network-caching=1000
+https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:0,MyTime Movies Network
+#EXTVLCOPT:network-caching=1000
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:0,Nat Geo People
+#EXTVLCOPT:network-caching=1000
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
+#EXTINF:0,Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:0,NAT TV
+#EXTVLCOPT:network-caching=1000
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,National Geographic Wild Asia
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:0,Natural TV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:0,Naura (576p)
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:0,Net TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:0,New K-Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,NG (612p)
+#EXTVLCOPT:network-caching=1000
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:0,NG WILD
+#EXTVLCOPT:network-caching=1000
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:0,NHK World (720p)
+#EXTVLCOPT:network-caching=1000
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+#EXTINF:0,Nick (Pluto TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Nick Jr (Pluto TV) (720p)
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:25,Nick Jr. Too (576p)
+#EXTVLCOPT:network-caching=1000
+http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
+#EXTINF:0,Nick Pluto
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&coppa=1
+#EXTINF:0,Nick Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+#EXTINF:0,Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
+#EXTINF:0,Nile Drama
+#EXTVLCOPT:network-caching=1000
+http://149.100.19.226:8001/play/Nile_Drama
+#EXTINF:0,NOS Studios HD
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.21:9981/play/a054
+#EXTINF:0,One (Indonesian Sub)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
+#EXTINF:0,Palestine Mubasher
+#EXTVLCOPT:network-caching=1000
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:0,Palestine Satellite Channel
+#EXTVLCOPT:network-caching=1000
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:0,Palestine Satellite Channel (360p)
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8
+#EXTINF:0,Palestine Today (480p)
+#EXTVLCOPT:network-caching=1000
+https://live.paltoday.tv/paltv/live/playlist.m3u8
+#EXTINF:0,PALESTINIAN TV
+#EXTVLCOPT:network-caching=1000
+http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:0,palestiniantv
+#EXTVLCOPT:network-caching=1000
+http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:0,Paramount Movie Channel
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Peace TV English
+#EXTVLCOPT:network-caching=1000
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:0,Pluto TV Action
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:0,Pluto TV Cine
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=902&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Cine Drama
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Pluto TV Cine Terror
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Pluto TV Crime Movies
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Pluto TV Cult Films
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Pluto TV Drama (England)
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91149880d60009d35d27/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=402&deviceId=5ddf91149880d60009d35d27&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV MOVIE CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
+#EXTINF:0,Pluto TV Movies
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Pluto TV Movies (England)
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5ad8d3a31b95267e225e4e09&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Movies CH
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Pluto TV Movies+
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0a1f73654db655a9274428/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=372611e5-6b4b-4a3f-9491-368034dfa39e&deviceId=5d0a1f73654db655a9274428&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:0,Pluto TV Movies+ (CH)
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c8a6bc64dc7286c6afaf4ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=f747754f-ee3e-4968-9e8e-779da031bce9&deviceId=5c8a6bc64dc7286c6afaf4ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:0,PopCornFlix Action (Bumblebee)
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:0,Popular Science
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
+#EXTINF:0,Portalfoxmix (720p)
+#EXTVLCOPT:network-caching=1000
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:0,Premium Channel
+#EXTVLCOPT:network-caching=1000
+http://premium-channel.tv:88/live/kali.m3u8
+#EXTINF:0,Pulse (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lightning-pulse-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:0,Qwest TV Mix (720p)
+#EXTVLCOPT:network-caching=1000
+https://qwestmix-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:62,Q\u018fB\u018fL\u018f TV
+#EXTVLCOPT:network-caching=1000
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:0,Raj Digital Plus (404p)
+#EXTVLCOPT:network-caching=1000
+http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+#EXTINF:0,Rakuten Action Movies 1
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten Action Movies 2
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten Action Movies 3
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten Drama (Denmark)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-drama-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten Drama (Finland)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-drama-12-fi.samsung.wurl.com/manifest//playlist.m3u8
+#EXTINF:0,Rakuten Drama (Netherlands)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-drama-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten Drama (Norway)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-drama-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten Drama (Sweden)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-drama-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten TV Action Movies Austria (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten TV Action Movies France (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten TV Action Movies Germany (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten TV Action Movies Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten TV Action Movies Switzerland (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten TV Action Movies UK (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten TV Comedy Movies Switzerland (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten TV Comedy Movies UK (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten TV Drama UK (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rakuten TV Family Movies UK (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,RCTI (720p)
+#EXTVLCOPT:network-caching=1000
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:0,Rotana Cinema HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:0,SBS World Movies [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+#EXTINF:0,Screamfest (720p)
+#EXTVLCOPT:network-caching=1000
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+#EXTINF:0,Screendreams
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
+#EXTINF:32,Sexy Kpop TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:0,Star Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+#EXTINF:0,Star Family HD
+#EXTVLCOPT:network-caching=1000
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
+#EXTINF:0,STAR HD
+#EXTVLCOPT:network-caching=1000
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:0,STAR MOVIEMI HD (STIRR)
+#EXTVLCOPT:network-caching=1000
+https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,STAR TV HD
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,STIRR Horror Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
+#EXTINF:0,STIRR Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:0,Syria Drama (270p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8
+#EXTINF:0,S\u0130NEMA 1001 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/8b8823ce5525d9b.m3u8
+#EXTINF:36,Teletubbies (720p)
+#EXTVLCOPT:network-caching=1000
+https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,TEN HD (720p)
+#EXTVLCOPT:network-caching=1000
+http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/playlist.m3u8
+#EXTINF:0,TEN HD [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_b1848000.m3u8
+#EXTINF:0,TEN HD ECADOR (720p)
+#EXTVLCOPT:network-caching=1000
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b18480j00.m3u8
+#EXTINF:0,TFX (720p)
+#EXTVLCOPT:network-caching=1000
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:60,The Asylum
+#EXTVLCOPT:network-caching=1000
+http://asylum-stirr.amagi.tv/playlist.m3u8
+#EXTINF:0,Thrill
+#EXTVLCOPT:network-caching=1000
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:0,TMC (720p)
+#EXTVLCOPT:network-caching=1000
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:27,TRANS 7 HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:0,TRANS TV HD
+#EXTVLCOPT:network-caching=1000
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
+#EXTINF:0,TRANS TV HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:0,Travel & Food TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
+#EXTINF:100,TRT \u00c7ocuk (720p)
+#EXTVLCOPT:network-caching=1000
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:0,Truly (720p)
+#EXTVLCOPT:network-caching=1000
+https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Truly (STIRR) (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8
+#EXTINF:0,TSC (720p)
+#EXTVLCOPT:network-caching=1000
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0,TSI HD (540p)
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_1/chunklist.m3u8
+#EXTINF:0,TSI HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_0/chunklist.m3u8
+#EXTINF:0,TV BNO (270p)
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:0,TV Cinec (720p)
+#EXTVLCOPT:network-caching=1000
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:0,TV1000 World Kino
+#EXTVLCOPT:network-caching=1000
+http://195.189.105.158:9050/121/index.m3u8
+#EXTINF:0,TVB Jade
+#EXTVLCOPT:network-caching=1000
+http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=30
+#EXTINF:0,TVB Xing He \u661f\u6cb3
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:0,TVBS\u65b0\u805e
+#EXTVLCOPT:network-caching=1000
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:0,TVM (480p)
+#EXTVLCOPT:network-caching=1000
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:0,TVM [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://iptv--iptv.repl.co/Maltese/TVM/
+#EXTINF:0,tvN Movies
+#EXTVLCOPT:network-caching=1000
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:0,TVRI
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:0,TVRI 4
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:0,TVRI Sport HD
+#EXTVLCOPT:network-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:0,ViP Megahit Russia
+#EXTVLCOPT:network-caching=1000
+http://195.189.105.158:9050/133/index.m3u8
+#EXTINF:0,ViP Premiere Russia
+#EXTVLCOPT:network-caching=1000
+http://195.189.105.158:9050/134/index.m3u8
+#EXTINF:0,WakuWaku Japan
+#EXTVLCOPT:network-caching=1000
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+#EXTINF:0,Wanasah (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:0,Warner TV
+#EXTVLCOPT:network-caching=1000
+http://203.154.243.89:11205/
+#EXTINF:0,Warner TV (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:0,Warner TV (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:0,Xumo Free Movies
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
+#EXTINF:0,Zee 24
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/kalak/playlist.m3u8
+#EXTINF:21,Zee Action
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
+#EXTINF:0,Zee Bioskop (360p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:0,Zee Cafe
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF:0,Zee Cinema Middle East
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
+#EXTINF:21,Zee Cinema UK
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
+#EXTINF:20,Zee Cinema USA
+#EXTVLCOPT:network-caching=1000
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
+#EXTINF:0,ZooMoo (Australia)
+#EXTVLCOPT:network-caching=1000
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#Astro
+#EXTINF:0,Astro 25 (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5046/default_ott.mpd
+
+#EXTINF:0,Astro Ria HD
+http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:0,Astro Prima HD
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:0,Astro Oasis HD
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:0,Astro Warna HD
+http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:0,Astro Citra HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:0,Naura HD
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:0,Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#EXTINF:0,Go Shop BAARU
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+#EXTINF:0,Astro Rania HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37467
+#EXTINF:0,Astro Aura HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37468
+#EXTINF:0,116 Colors HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6769
+#EXTINF:0,118 Go Shop RUUMA
+https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
+#EXTINF:0,120 Go Shop GAAYA 
+https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+#EXTINF:0,120 Go Shop  
+https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+#EXTINF:0,201 Astro Vaanavil
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF:0,202 Astro Vinmeen HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37344
+#EXTINF:0,203 Astro Vellithirai
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
+#EXTINF:0,204 Makkal TV (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/709/default_ott.mpd
+#EXTINF:0,211 Sun TV HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37347
+#EXTINF:0,212 Sun Music HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37340
+#EXTINF:0,213 Chutti TV
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37341
+#EXTINF:0,214 Adithya
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37342
+#EXTINF:0,221 Star Vijay HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37345
+#EXTINF:0,222 Colors Tamil HD
+https://web.hypp.tv:443/PLTV/88888888/224/3221227562/3221227562.mpd
+#EXTINF:0,223 Zee Tamil HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37343
+#EXTINF:0,251 Bollyone HD (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+#EXTINF:0,300 IQIYI HD
+http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+#EXTINF:0,303 Go Shop 2
+https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
+#EXTINF:0,304 Astro Xiao Tai Yang
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:0,305 TVB Classic HD (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+#EXTINF:0,306 Astro AEC
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37352
+#EXTINF:0,307 Astro Shuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:0,308 Astro Quan Jia HD
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:0,Celestial Movies HD
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#EXTINF:0,310 TVB Jade HD
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:0, 311 Astro AOD HD
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+#EXTINF:0,316 CTI Asia HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37358
+#EXTINF:0,317 TVB Entertainment News HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+#EXTINF:0,319 TVB Xing He
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:0,320 TVBS Asia HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37361
+#EXTINF:0,321 CCM
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF:0,323 TVBS News (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_ott.mpd
+#EXTINF:0,325 Phoenix Chinese Channel (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+#EXTINF:0,326 Phoenix Info News HD (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
+#EXTINF:0,333 Astro Hua Hee Dai
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/247424
+#EXTINF:0,341 Colors
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227504/3221227504.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
+#EXTINF:0, 352 Astro AOD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37365
+#EXTINF:0, 353 Astro AOD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37366
+#EXTINF:0, 354 Astro AOD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37367
+#EXTINF:0, 355 Astro AOD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37368
+#EXTINF:0, 392 KBS World HD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:0,393 ONE HD 
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:0,393 ONE HD (Astro Feed)
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:0,393 ONE HD (Astro GO Feed)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+#EXTINF:0,394 Oh!K HD 
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:0,394 Oh!K HD (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
+#EXTINF:0,KPlus HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37440
+#EXTINF:0,NHK World Premium HD
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:0,400 FAM Movies (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/901/default_ott.mpd
+#EXTINF:0,401 Hits Movies 
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTINF:0,404 Boo HD
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:0,Thrill HD
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:0,HBO HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:0,HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0,412 Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:0,HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:0,HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:0,HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:0,473 Rock Entertainment (Indonesian Feed)
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/1506
+#EXTINF:0,474 Rock Extreme (Indonesian Feed) 
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/811
+#EXTINF:0,501 Astro Awani 
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:0,503 CGTN HD
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0,511 CNN HD
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+#EXTINF:0,512 BBC World News HD
+https://web.hypp.tv:443/PLTV/88888888/224/3221227586/3221227586.mpd
+#EXTINF:0,513 Al Jazeera English HD
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0,514 Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:0,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:0,517 Bloomberg 
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:0,652 France 24
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+#EXTINF:0,552 Discovery Channel
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#EXTINF:0,554 Discovery Science HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37392
+#EXTINF:0,555 History HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37393
+#EXTINF:0,556 Animal Planet HD
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#EXTINF:0,601 Astro Tutor TV SK (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/214/default_ott.mpd
+#EXTINF:0,601 Astro Tutor TV SK
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37395
+#EXTINF:0,602 Astro Tutor TV PT3 (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/314/default_ott.mpd
+#EXTINF:0,602 Astro Tutor TV PT3
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37396
+#EXTINF:0,603 Astro Tutor TV SPM (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_ott.mpd
+#EXTINF:0,603 Astro Tutor TV SPM
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37397
+#EXTINF:0,610 Astro TVIQ (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5030/default_ott.mpd
+#EXTINF:0,610 Astro TVIQ
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37398
+#EXTINF:0,Astro Ceria HD
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:0,611 Astro Ceria (Multidub) (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+#EXTINF:0,612 TA-DAA! (Works in OTT)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
+#EXTINF:0,615 Cartoon Network
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#EXTINF:0,615 Cartoon Network (Multidub) (Works in OTT) 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+#EXTINF:0,643 NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:0,701 AXN HD
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:0,702 Hello HD
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+#EXTINF:0,705 KIX HD 
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#EXTINF:0,706 HITS HD
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#EXTINF:0,707 TLC HD
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#EXTINF:0,708 Food Network HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37411
+#EXTINF:0,709 Asian Food Network HD
+https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+#EXTINF:0,714 Crime & Investigation HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37415
+#EXTINF:0,715 HGTV HD
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#EXTINF:0,716 DMAX HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37417
+#EXTINF:0,719 Animax HD
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:0,800 eGG Network HD
+https://linear01-playback.sooka.my/CH2/masterCH2.mpd
+#EXTINF:0,801 Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:0,811 Astro SuperSport HD 
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
+#EXTINF:0,812 Astro SuperSport 2 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
+#EXTINF:0,813 Astro SuperSport 3 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
+#EXTINF:0,814 Astro SuperSport 4 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
+#EXTINF:0,818 beIN Sports
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37432
+#EXTINF:0,819 BeIN Sports MAX HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6748
+#EXTINF:0,820 Eurosport HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37434
+#EXTINF:0,821 WWE Network HD
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:0,822 Golf Channel HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/561
+#EXTINF:0,823 Rugby Pass TV HD
+https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37437
+#EXTINF:0,824 Astro Cricket
+http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
+#EXTINF:0,988
+http://22283.live.streamtheworld.com/988_FMAAC.aac
+#EXTINF:0,Suria FM
+https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
+#EXTINF:0, Hot FM 
+https://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:0,Buletin FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:0,Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:0,8FM
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:0,HITZ
+https://astro1.rastream.com/hitz
+#EXTINF:0, MY
+https://astro1.rastream.com/myfm
+#EXTINF:0,LITE
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/lite/info.m3u8
+#EXTINF:0,MIX
+https://astro2.rastream.com/mix
+#EXTINF:0,ERA
+https://astro2.rastream.com/era
+#EXTINF:0,SINAR
+https://astro2.rastream.com/sinar
+#EXTINF:0,MELODY
+https://astro3.rastream.com/melody
+#EXTINF:0,RAAGA
+https://astro3.rastream.com/raaga
+#EXTINF:0,SYOK Classic Rock
+https://astro4.rastream.com/rock
+#EXTINF:0,SYOK Gold
+https://astro4.rastream.com/gold
+#EXTINF:0,SYOK Opus
+https://astro4.rastream.com/opus
+#EXTINF:0,GEGAR
+https://astro3.rastream.com/gegar
+#EXTINF:0,SYOK India Beat
+https://astro4.rastream.com/india
+#EXTINF:0,SYOK Jazz
+https://astro4.rastream.com/jazz
+#EXTINF:0,SYOK Osai
+https://astro4.rastream.com/osai
+#EXTINF:0,SYOK Bayu
+https://astro4.rastream.com/bayu
+#EXTINF:0,SYOK Kenyalang
+https://astro4.rastream.com/kenyalang
+#EXTINF:0,ZAYAN
+https://astro3.rastream.com/astro-zayan
+#EXTINF:0,GOXUAN
+https://astro3.rastream.com/astro-goxuan
+#EXTINF:0,Arena Radio
+https://astro1.rastream.com/amp-arena
+#EXTINF:0,Nasional FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+#EXTINF:0,ERA Sabah
+https://astro2.rastream.com/amp-era-kk
+#EXTINF:0,ERA Sarawak
+https://astro2.rastream.com/amp-era-kch
+#EXTINF:0,HITZ Sabah
+https://astro1.rastream.com/amp-hitz-kk
+#EXTINF:0,HITZ Sarawak
+https://astro1.rastream.com/amp-hitz-kch
+#EXTINF:0,MY Sabah
+https://astro1.rastream.com/amp-myfm-kk
+#EXTINF:0,MY Sarawak
+https://astro1.rastream.com/amp-myfm-kch
+
+#EXTINF:0,GEM
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/770
+#EXTINF:0,Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Fight Box
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/501
+#EXTINF:0, Disney Channel
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
