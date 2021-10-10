@@ -13,7 +13,7 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:14400,TV3
 #EXTVLCOPT:network-caching=1000
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRbHuusWtfeMwXl20ZHWCp0)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHboLR5-_J8VgJbLXjLiQCoI)/dm/3/x6qp375/d/live-3.m3u8
 #EXTINF:30,TV9
 #EXTVLCOPT:network-caching=1000
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYjRVdhw23i22Sx1oyE8UIQ)/dm/3/x6qqja6/s/live-3.m3u8
@@ -158,14 +158,14 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
 #EXTINF:0,Australia Channel (720p)
 #EXTVLCOPT:network-caching=1000
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:0,AXN (720p) [Not 24/7]
+#EXTINF:0,AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:0,AXN East Asia (Vietnam) (1080p)
+#EXTINF:0,AXN HD
 #EXTVLCOPT:network-caching=1000
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:0,AXN East Asia (Vietnam) (1080p)
+#EXTINF:0,AXN HD
 #EXTVLCOPT:network-caching=1000
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF:0,B1 (720p)
@@ -207,29 +207,29 @@ https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
 #EXTINF:42,Cartoon Network Vietnam (720p)
 #EXTVLCOPT:network-caching=1000
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
-#EXTINF:0,Celestial Classic \u5929\u6620\u7ecf\u5178
+#EXTINF:0,Celestial Classic Movies
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:0,Celestial Movies (480p) [Geo-blocked]
+#EXTINF:0,Celestial Movies HD
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0,Charge!
 #EXTVLCOPT:network-caching=1000
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:0,Cinemax
+#EXTINF:0,Cinemax HD
 #EXTVLCOPT:network-caching=1000
 http://23.237.202.43:7283/CINEMAX-FHD/index.m3u8?un=rommel07&tm=1626349319&sn=Ux0Oojow5FkqHQCpMmUNQKUr4Wb
-#EXTINF:0,Cinemax
+#EXTINF:0,Cinemax HD
 #EXTVLCOPT:network-caching=1000
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:0,Cinemax
+#EXTINF:0,Cinemax HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-#EXTINF:0,Cinemax (360p)
+#EXTINF:0,Cinemax HD
 #EXTVLCOPT:network-caching=1000
 http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:0,CNA (1080p)
+#EXTINF:0,CNA HD
 #EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0,CNBC Indonesia (720p)
@@ -382,13 +382,13 @@ https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv
 #EXTINF:53,Hallmark Movies & More
 #EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:0,HBO Family [Asia Feed]
+#EXTINF:0,HBO Family HD
 #EXTVLCOPT:network-caching=1000
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:0,HBO Hits [Asia Feed]
+#EXTINF:0,HBO Hits HD
 #EXTVLCOPT:network-caching=1000
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:0,Hits Movies
+#EXTINF:0,Hits Movies HD
 #EXTVLCOPT:network-caching=1000
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:0,Hollywood HD
@@ -586,7 +586,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:0,NAT TV
 #EXTVLCOPT:network-caching=1000
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIC
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,National Geographic Wild Asia
@@ -595,7 +595,7 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:0,Natural TV (1080p)
 #EXTVLCOPT:network-caching=1000
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
-#EXTINF:0,Naura (576p)
+#EXTINF:0,Naura HD
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:0,Net TV (720p)
@@ -613,19 +613,19 @@ https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 #EXTINF:0,NHK World (720p)
 #EXTVLCOPT:network-caching=1000
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
-#EXTINF:0,Nick (Pluto TV) (720p)
+#EXTINF:0,Nickelodeon HD
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0,Nick Jr (Pluto TV) (720p)
+#EXTINF:0,Nickelodeon Junior
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:25,Nick Jr. Too (576p)
+#EXTINF:25,Nick Jr. Too
 #EXTVLCOPT:network-caching=1000
 http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
-#EXTINF:0,Nick Pluto
+#EXTINF:0,Nickelodeon HD
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&coppa=1
-#EXTINF:0,Nick Pluto TV
+#EXTINF:0,Nickelodeon HD
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 #EXTINF:0,Nickelodeon HD
@@ -889,13 +889,13 @@ http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:0,TV1000 World Kino
 #EXTVLCOPT:network-caching=1000
 http://195.189.105.158:9050/121/index.m3u8
-#EXTINF:0,TVB Jade
+#EXTINF:0,TVB Jade HD
 #EXTVLCOPT:network-caching=1000
 http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=30
-#EXTINF:0,TVB Xing He \u661f\u6cb3
+#EXTINF:0,TVB Xing He HD
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:0,TVBS\u65b0\u805e
+#EXTINF:0,TVBS
 #EXTVLCOPT:network-caching=1000
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:0,TVM (480p)
@@ -904,7 +904,7 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:0,TVM [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://iptv--iptv.repl.co/Maltese/TVM/
-#EXTINF:0,tvN Movies
+#EXTINF:0,tvN HD
 #EXTVLCOPT:network-caching=1000
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:0,TVRI
@@ -1034,7 +1034,7 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 #EXTINF:0,306 Astro AEC
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37352
-#EXTINF:0,307 Astro Shuang Xing
+#EXTINF:0,307 Astro Shuang Xing HD
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:0,308 Astro Quan Jia HD
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
@@ -1048,7 +1048,7 @@ http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37358
 #EXTINF:0,317 TVB Entertainment News HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
-#EXTINF:0,319 TVB Xing He
+#EXTINF:0,319 TVB Xing He HD
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:0,320 TVBS Asia HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37361
@@ -1060,19 +1060,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 #EXTINF:0,326 Phoenix Info News HD (Works in OTT)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
-#EXTINF:0,333 Astro Hua Hee Dai
+#EXTINF:0,333 Astro Hua Hee Dai HD
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/247424
-#EXTINF:0,341 Colors
+#EXTINF:0,341 Colors HD
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227504/3221227504.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
-#EXTINF:0, 352 Astro AOD
-https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37365
-#EXTINF:0, 353 Astro AOD
-https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37366
-#EXTINF:0, 354 Astro AOD
-https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37367
-#EXTINF:0, 355 Astro AOD
-https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37368
+
 #EXTINF:0, 392 KBS World HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:0,393 ONE HD 
@@ -1101,13 +1094,13 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0,HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:0,412 Cinemax
+#EXTINF:0,412 Cinemax HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:0,HBO Hits
+#EXTINF:0,HBO Hits HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:0,HBO Family
+#EXTINF:0,HBO Family HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:0,HBO Signature
+#EXTINF:0,HBO Signature HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:0,473 Rock Entertainment (Indonesian Feed)
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/1506
