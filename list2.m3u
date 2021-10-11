@@ -992,101 +992,89 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37467
 #EXTINF:0,Astro Aura HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37468
-#EXTINF:0,116 Colors HD
+#EXTINF:0,Colors HD
 http://iptv.tvmalaysia.cc:80/624850/624850/6769
-#EXTINF:0,118 Go Shop RUUMA
+#EXTINF:0,Go Shop RUUMA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
-#EXTINF:0,120 Go Shop GAAYA 
+#EXTINF:0,Go Shop GAAYA 
 https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
-#EXTINF:0,120 Go Shop  
+#EXTINF:0,Go Shop  
 https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
-#EXTINF:0,201 Astro Vaanavil
+#EXTINF:0,Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
-#EXTINF:0,202 Astro Vinmeen HD
+#EXTINF:0,Astro Vinmeen HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37344
-#EXTINF:0,203 Astro Vellithirai
+#EXTINF:0,Astro Vellithirai
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
-#EXTINF:0,204 Makkal TV (Works in OTT)
+#EXTINF:0,Makkal TV (Works in OTT)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/709/default_ott.mpd
-#EXTINF:0,211 Sun TV HD
+#EXTINF:0,Sun TV HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37347
-#EXTINF:0,212 Sun Music HD
+#EXTINF:0,Sun Music HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37340
-#EXTINF:0,213 Chutti TV
+#EXTINF:0,Chutti TV
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37341
-#EXTINF:0,214 Adithya
+#EXTINF:0,Adithya
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37342
-#EXTINF:0,221 Star Vijay HD
+#EXTINF:0,Star Vijay HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37345
-#EXTINF:0,222 Colors Tamil HD
+#EXTINF:0,Colors Tamil HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227562/3221227562.mpd
-#EXTINF:0,223 Zee Tamil HD
+#EXTINF:0,Zee Tamil HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37343
-#EXTINF:0,251 Bollyone HD (Works in OTT)
+#EXTINF:0,Bollyone HD (Works in OTT)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
-#EXTINF:0,300 IQIYI HD
+#EXTINF:0,IQIYI HD
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-#EXTINF:0,303 Go Shop 2
+#EXTINF:0,Go Shop 2
 https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
-#EXTINF:0,304 Astro Xiao Tai Yang
+#EXTINF:0,Astro Xiao Tai Yang
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:0,305 TVB Classic HD (Works in OTT)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
-#EXTINF:0,306 Astro AEC
+#EXTINF:0,Astro AEC
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37352
-#EXTINF:0,307 Astro Shuang Xing HD
+#EXTINF:0,Astro Shuang Xing HD
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:0,308 Astro Quan Jia HD
+#EXTINF:0,Astro Quan Jia HD
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:0,Celestial Movies HD
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#EXTINF:0,310 TVB Jade HD
+#EXTINF:0,TVB Jade HD
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:0, 311 Astro AOD HD
+#EXTINF:0,Astro AOD HD
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
-#EXTINF:0,316 CTI Asia HD
+#EXTINF:0,CTI Asia HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37358
-#EXTINF:0,317 TVB Entertainment News HD
+#EXTINF:0,TVB Entertainment News HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
-#EXTINF:0,319 TVB Xing He HD
+#EXTINF:0,TVB Xing He HD
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:0,320 TVBS Asia HD
+#EXTINF:0,TVBS Asia HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37361
-#EXTINF:0,321 CCM
+#EXTINF:0,CCM
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-#EXTINF:0,323 TVBS News (Works in OTT)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_ott.mpd
-#EXTINF:0,325 Phoenix Chinese Channel (Works in OTT)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
-#EXTINF:0,326 Phoenix Info News HD (Works in OTT)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
-#EXTINF:0,333 Astro Hua Hee Dai HD
+#EXTINF:0,Astro Hua Hee Dai HD
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/247424
-#EXTINF:0,341 Colors HD
+#EXTINF:0,Colors HD
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227504/3221227504.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
 
-#EXTINF:0, 392 KBS World HD
+#EXTINF:0,KBS World HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:0,393 ONE HD 
+#EXTINF:0,ONE HD 
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#EXTINF:0,393 ONE HD (Astro Feed)
+#EXTINF:0,ONE HD (Astro Feed)
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:0,393 ONE HD (Astro GO Feed)
+#EXTINF:0,ONE HD (Astro GO Feed)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
-#EXTINF:0,394 Oh!K HD 
+#EXTINF:0,Oh!K HD 
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:0,394 Oh!K HD (Works in OTT)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
 #EXTINF:0,KPlus HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37440
 #EXTINF:0,NHK World Premium HD
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-#EXTINF:0,400 FAM Movies (Works in OTT)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/901/default_ott.mpd
-#EXTINF:0,401 Hits Movies 
+#EXTINF:0,Hits Movies HD
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-#EXTINF:0,404 Boo HD
+#EXTINF:0,Boo HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:0,Thrill HD
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
@@ -1094,7 +1082,7 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0,HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:0,412 Cinemax HD
+#EXTINF:0,Cinemax HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:0,HBO Hits HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
@@ -1102,21 +1090,17 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:0,HBO Signature HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:0,473 Rock Entertainment (Indonesian Feed)
-https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/1506
-#EXTINF:0,474 Rock Extreme (Indonesian Feed) 
-https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/811
-#EXTINF:0,501 Astro Awani 
+#EXTINF:0,Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:0,503 CGTN HD
+#EXTINF:0,CGTN HD
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:0,511 CNN HD
+#EXTINF:0,CNN HD
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-#EXTINF:0,512 BBC World News HD
+#EXTINF:0,BBC World News HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227586/3221227586.mpd
-#EXTINF:0,513 Al Jazeera English HD
+#EXTINF:0,Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0,514 Sky News
+#EXTINF:0,Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:0,CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -1150,63 +1134,55 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5030/default_ott.mpd
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37398
 #EXTINF:0,Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:0,611 Astro Ceria (Multidub) (Works in OTT)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
-#EXTINF:0,612 TA-DAA! (Works in OTT)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
-#EXTINF:0,615 Cartoon Network
+#EXTINF:0,Cartoon Network HD
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-#EXTINF:0,615 Cartoon Network (Multidub) (Works in OTT) 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
-#EXTINF:0,643 NHK World Japan
+#EXTINF:0,NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:0,701 AXN HD
+#EXTINF:0,AXN HD
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#EXTINF:0,702 Hello HD
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
-#EXTINF:0,705 KIX HD 
+#EXTINF:0,KIX HD 
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-#EXTINF:0,706 HITS HD
+#EXTINF:0,HITS HD
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-#EXTINF:0,707 TLC HD
+#EXTINF:0,TLC HD
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-#EXTINF:0,708 Food Network HD
+#EXTINF:0,Food Network HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37411
-#EXTINF:0,709 Asian Food Network HD
+#EXTINF:0,Asian Food Network HD
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
-#EXTINF:0,714 Crime & Investigation HD
+#EXTINF:0,Crime & Investigation HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37415
-#EXTINF:0,715 HGTV HD
+#EXTINF:0,HGTV HD
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-#EXTINF:0,716 DMAX HD
+#EXTINF:0,DMAX HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37417
 #EXTINF:0,719 Animax HD
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-#EXTINF:0,800 eGG Network HD
+#EXTINF:0,eGG Network HD
 https://linear01-playback.sooka.my/CH2/masterCH2.mpd
-#EXTINF:0,801 Astro Arena
+#EXTINF:0,Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:0,811 Astro SuperSport HD 
+#EXTINF:0,Astro SuperSport HD 
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
-#EXTINF:0,812 Astro SuperSport 2 HD
+#EXTINF:0,Astro SuperSport 2 HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
-#EXTINF:0,813 Astro SuperSport 3 HD
+#EXTINF:0,Astro SuperSport 3 HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
-#EXTINF:0,814 Astro SuperSport 4 HD
+#EXTINF:0,Astro SuperSport 4 HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
-#EXTINF:0,818 beIN Sports
+#EXTINF:0,beIN Sports
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37432
-#EXTINF:0,819 BeIN Sports MAX HD
+#EXTINF:0,BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6748
-#EXTINF:0,820 Eurosport HD
+#EXTINF:0,Eurosport HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37434
-#EXTINF:0,821 WWE Network HD
+#EXTINF:0,WWE Network HD
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-#EXTINF:0,822 Golf Channel HD
+#EXTINF:0,Golf Channel HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/561
-#EXTINF:0,823 Rugby Pass TV HD
+#EXTINF:0,Rugby Pass TV HD
 https://nonton.site:8443/IGRKg9OA4w/hbkbkf343kbkjbskj/37437
-#EXTINF:0,824 Astro Cricket
+#EXTINF:0,Astro Cricket
 http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
 #EXTINF:0,988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
@@ -1281,6 +1257,6 @@ https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/770
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0,Fight Box
 https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/501
-#EXTINF:0, Disney Channel
+#EXTINF:0,Disney Channel
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd?icpid=88888888&from=0&hms_devid=1602,1793,1885
