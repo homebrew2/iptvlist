@@ -594,7 +594,7 @@ http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 #EXTINF:0,Indosiar
 #EXTVLCOPT:network-caching=1000
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:60,K+ (576p)
+#EXTINF:60,K-Plus HD
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:0,K-TV
@@ -771,19 +771,19 @@ https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:0,MyTime Movies Network
 #EXTVLCOPT:network-caching=1000
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:0,Nat Geo People
+#EXTINF:0,Nat Geo People HD
 #EXTVLCOPT:network-caching=1000
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-#EXTINF:0,Nat Geo Wild
+#EXTINF:0,Nat Geo Wild HD
 #EXTVLCOPT:network-caching=1000
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:0,NAT TV
 #EXTVLCOPT:network-caching=1000
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
+#EXTINF:0,Nat Geo HD
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,National Geographic Wild Asia
+#EXTINF:0,Nat Geo Wild HD
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:0,Natural TV (1080p)
@@ -795,16 +795,16 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:0,Net TV (720p)
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:0,New K-Movies (720p)
+#EXTINF:0,New K-Movies
 #EXTVLCOPT:network-caching=1000
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,NG (612p)
+#EXTINF:0,NG
 #EXTVLCOPT:network-caching=1000
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 #EXTINF:0,NG WILD
 #EXTVLCOPT:network-caching=1000
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-#EXTINF:0,NHK World (720p)
+#EXTINF:0,NHK World HD
 #EXTVLCOPT:network-caching=1000
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
 #EXTINF:0,Nickelodeon HD
@@ -831,7 +831,7 @@ http://149.100.19.226:8001/play/Nile_Drama
 #EXTINF:0,NOS Studios HD
 #EXTVLCOPT:network-caching=1000
 http://185.236.229.21:9981/play/a054
-#EXTINF:0,One (Indonesian Sub)
+#EXTINF:0,One HD
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
 #EXTINF:0,Palestine Mubasher
@@ -1038,19 +1038,19 @@ https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:60,The Asylum
 #EXTVLCOPT:network-caching=1000
 http://asylum-stirr.amagi.tv/playlist.m3u8
-#EXTINF:0,Thrill
+#EXTINF:0,Thrill HD
 #EXTVLCOPT:network-caching=1000
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:0,TMC (720p)
 #EXTVLCOPT:network-caching=1000
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:27,TRANS 7 HD (720p)
+#EXTINF:27,TRANS7 HD
 #EXTVLCOPT:network-caching=1000
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:0,TRANS TV HD
+#EXTINF:0,TRANSTV HD
 #EXTVLCOPT:network-caching=1000
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
-#EXTINF:0,TRANS TV HD (720p)
+#EXTINF:0,TRANSTV HD
 #EXTVLCOPT:network-caching=1000
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0,Travel & Food TV (720p)
