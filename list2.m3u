@@ -13,7 +13,7 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbPq3ProBYWB5jHber7PsY4)/dm/3/x6qp375/d/live-3.m3u8
 #EXTINF:30,TV9
 #EXTVLCOPT:network-caching=1000
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTCymZGFtF-AHyr5ojP0n0s)/dm/3/x6qqja6/s/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQIeDLnB8mNAGIDXObBIx0w)/dm/3/x6qqja6/s/live-3.m3u8
 #EXTINF:60,TVS
 #EXTVLCOPT:network-caching=1000
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
