@@ -190,15 +190,9 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6706
 # http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
 #EXTINF:-1 tvg-id="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD (Astro Feed)
 # http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/28.m3u8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6817
-
 #EXTINF:-1 tvg-id="394" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",394 Oh!K HD 
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
@@ -222,7 +216,7 @@ http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/90.m3u8
 #EXTINF:-1 tvg-id="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 Hits Movies 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 
 #EXTINF:0 tvg-name="Makkah TV" tvg-logo="https://www.makkahtv.com/wp-content/uploads/2019/08/MakkahTV.png" group-title="MY-AR",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
@@ -246,8 +240,6 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="Star Movies Select HD" tvg-ID="starmoviesselecthd.in" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" group-title="MY-AR",Star Movies Select HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/221
-#EXTINF:0 tvg-name="Hits Movies HD" tvg-ID="HITS.Movies.HD.my" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hitsmovies.jpg" group-title="MY-AR",Hits Movies
-http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:0 tvg-name="Sony Pix HD" tvg-ID="SonyPix.in" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Sony_Pix_HD.jpg" group-title="MY-AR",Sony Pix HD
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:0 tvg-name="Movies NOW" tvg-ID="MoviesNow.in" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movies-now.jpg" group-title="MY-AR",Movies NOW
@@ -278,7 +270,6 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 
-
 #EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 # https://mediahomes.github.io/assets/hbogo/hbo.m3u8
@@ -306,8 +297,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="503" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",503 CGTN HD
