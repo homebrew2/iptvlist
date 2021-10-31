@@ -580,16 +580,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
 #EXTINF:0,Australia Channel (720p)
 #EXTVLCOPT:network-caching=1000
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:0,AXN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:0,AXN HD
-#EXTVLCOPT:network-caching=1000
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:0,AXN HD
-#EXTVLCOPT:network-caching=1000
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+
 #EXTINF:0,B1 (720p)
 #EXTVLCOPT:network-caching=1000
 https://stream.adunity.com/b1/b1.m3u8
@@ -617,18 +608,12 @@ https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:0,Bluegrass 4U
 #EXTVLCOPT:network-caching=1000
 https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
-#EXTINF:0,Boomerang
-#EXTVLCOPT:network-caching=1000
-http://27.254.130.56:80/live01/ch18.m3u8
 #EXTINF:0,Boreal (720p)
 #EXTVLCOPT:network-caching=1000
 https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8
 #EXTINF:0,BTV Cinema
 #EXTVLCOPT:network-caching=1000
 https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
-#EXTINF:42,Cartoon Network Vietnam (720p)
-#EXTVLCOPT:network-caching=1000
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:0,Celestial Classic Movies
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
@@ -638,13 +623,6 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0,Charge!
 #EXTVLCOPT:network-caching=1000
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:0,Cinemax HD
-#EXTVLCOPT:network-caching=1000
-http://23.237.202.43:7283/CINEMAX-FHD/index.m3u8?un=rommel07&tm=1626349319&sn=Ux0Oojow5FkqHQCpMmUNQKUr4Wb
-#EXTINF:0,Cinemax HD
-#EXTVLCOPT:network-caching=1000
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:0,Cinemax HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
@@ -654,7 +632,7 @@ http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:0,CNA HD
 #EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:0,CNBC Indonesia (720p)
+#EXTINF:0,CNBC Indonesia
 #EXTVLCOPT:network-caching=1000
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:60,Crackle
@@ -696,10 +674,10 @@ https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Family Flix
 #EXTVLCOPT:network-caching=1000
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-#EXTINF:0,Family Movies (720p)
+#EXTINF:0,Family Movies
 #EXTVLCOPT:network-caching=1000
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Fight Box (480p)
+#EXTINF:0,Fight Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:network-caching=1000
 http://ott-cdn.ucom.am/s86/index.m3u8
@@ -742,20 +720,6 @@ https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Flix Fling Now
 #EXTVLCOPT:network-caching=1000
 https://flixfling-flixflingnow-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,FOX [Vietnam]
-#EXTVLCOPT:network-caching=1000
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:0,FOX Movies [Vietnam]
-#EXTVLCOPT:network-caching=1000
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:45,FOX Movies Asia Thai (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:50,FOX Thai (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:0,FrightFlix
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
@@ -804,12 +768,6 @@ https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv
 #EXTINF:53,Hallmark Movies & More
 #EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:0,HBO Family HD
-#EXTVLCOPT:network-caching=1000
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:0,HBO Hits HD
-#EXTVLCOPT:network-caching=1000
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:0,Hits Movies HD
 #EXTVLCOPT:network-caching=1000
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
