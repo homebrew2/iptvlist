@@ -496,6 +496,25 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
 #EXTINF:-1 tvg-id="824" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",824 Astro Cricket
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6717
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oH8wyqR.png" group-title="MOVIES",Galaxy Premium
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29603
+#EXTINF:-1 tvg-logo="https://i.imgur.com/If0036I.png" group-title="MOVIES",MyCinema
+http://210.210.155.35/uq2663/h/h192/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="ASIAN MOVIES",MyCinema Asia
+http://210.210.155.35/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5e8xvqO.png" group-title="ARABIC MOVIES",Fox Movies
+http://www.zizoiptv.com:8000/live/arbcamd/122197/3018.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3uxkGK5.png" group-title="ARABIC MOVIES",Fox Family Movies
+http://iptv.tvmalaysia.cc:80/271282/271282/9026
+#EXTINF:-1 tvg-logo="https://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png" group-title="ASIAN MOVIES",HTV Phim
+https://livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/800px-Sony_MAX.svg.png" group-title="HINDI MOVIES",Sony Max
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NywlkDO.png" group-title="HINDI MOVIES",Zee Cinema
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:0,24 Hour Free Movies
 #EXTVLCOPT:network-caching=1000
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
