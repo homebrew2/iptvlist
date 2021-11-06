@@ -10,7 +10,7 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="103" group-title="myFreeview" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQniq4EvIg7f8Svoe-KLs6I)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVR5rbBto7QrBZ9AA2RjX3o)/dm/3/x6qp375/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://user-images.githubusercontent.com/85995579/128629391-bf27732d-34b4-4693-98d4-cb57507344ec.png",104 Astro Ria
 # http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
@@ -93,14 +93,14 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM (HD)
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbBaiAfnaRnRLWGwNosm1Ks)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfphLOMCLBybstqZDhmkGbM)/dm/3/x6qp6ou/s/live-3.m3u8
 
 
 #EXTINF:-1 tvg-id="148" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV (HD)
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYtVWJheGzDpHsiJ3uswQIk)/dm/3/x6qud17/s/live-2.m3u8
 
 #EXTINF: -1 tvg-id="149" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (HD)
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaBUKZ9kzMvkG_HqapIB_Jk)/dm/3/x6qqja6/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHd4J72rghG678tdce-Nmp-E)/dm/3/x6qqja6/s/live-3.m3u8
 
 
 #EXTINF:-1 tvg-id="201" group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil
