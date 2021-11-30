@@ -120,6 +120,11 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="MNC TV" tvg-logo="https://i.postimg.cc/bwvxnwcQ/mnc.png" group-title="(ott) INDONESIA HD",MNC TV HD
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="Indonesia",SCTV
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
@@ -657,6 +662,86 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8970
 #EXTINF:-1 tvg-id="311" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 311 Astro AOD HD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 
+movies
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", mytv
+http://iptvid.my.id/ch/mytv.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", atv
+http://iptvid.my.id/ch/atv.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", myca
+http://iptvid.my.id/ch/myca.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", myfc
+http://iptvid.my.id/ch/myfc.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", mycn
+http://iptvid.my.id/ch/mycn.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", axn
+http://iptvid.my.id/ch/axn.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", glx
+http://iptvid.my.id/ch/glx.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", Galaxy Premium
+http://iptvid.my.id/ch/glxprem.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", hits
+http://iptvid.my.id/ch/hits.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", hitsmovie
+http://iptvid.my.id/ch/hitsmovie.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", kix
+http://iptvid.my.id/ch/kix.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", paramount
+http://iptvid.my.id/ch/paramount.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", tvnmovie
+http://iptvid.my.id/ch/tvnmovie.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Entertainment", TVNMOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Entertainment", CELESTIALMOVIES
+http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", Warner
+http://iptvid.my.id/ch/wrnr.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", Cinema World
+http://iptvid.my.id/ch/cnmwrld.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", Celestial Movies
+http://iptvid.my.id/ch/clstl.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", Zee Bioskop
+http://iptvid.my.id/ch/zeeb.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", IMC
+http://iptvid.my.id/ch/imc.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", Flik
+http://iptvid.my.id/ch/flik.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", atv
+http://iptvid.my.id/ch/atv.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", myca
+http://iptvid.my.id/ch/myca.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", myfc
+http://iptvid.my.id/ch/myfc.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", mycn
+http://iptvid.my.id/ch/mycn.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="MOVIES", axn
+http://iptvid.my.id/ch/axn.m3u8?by=iptv_id
+
+CHinese
 
 #EXTINF:-1 tvg-id="319" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",319 TVB Xing He
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
